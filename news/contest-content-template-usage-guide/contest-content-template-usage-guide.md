@@ -8,7 +8,7 @@ image: "img/template.jpg"
 ---
 
 ### Step 1
-Frok [Heltec Wi-Ki](https://github.com/HelTecAutomation) repository, and clone the forked project into local. Copy the `contest-content-template` file in the `news` folder, rename it into your project name, lowercase, spaces are replaced by `-`.
+Fork [Heltec Wi-Ki](https://github.com/HelTecAutomation) repository, and clone the forked project into local. Copy the `contest-content-template` file in the `news` folder, rename it into your project name, lowercase, spaces are replaced by `-`.
 
 Enter the folder and change the name of "contest-content-template.md" to the same as the parent directory.
 
